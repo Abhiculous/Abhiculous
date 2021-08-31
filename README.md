@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-<![node1](https://user-images.githubusercontent.com/75431079/131574709-c3ae8a16-bf85-4851-90e9-85f9c39bbbfd.png)
-<img width="192" alt="aspnet_logo" src="https://user-images.githubusercontent.com/75431079/131574716-fcdf1e37-398b-4739-a371-c068be9c55aa.png">
+< <img width="192" alt="aspnet_logo" src="https://user-images.githubusercontent.com/75431079/131574716-fcdf1e37-398b-4739-a371-c068be9c55aa.png">
 ![html-css](https://user-images.githubusercontent.com/75431079/131574719-11704183-f465-4be5-911c-7ddeab46e013.png)
-![AAA](https://user-images.githubusercontent.com/75431079/131574733-f7cbcd53-25f5-44b4-b6f6-d8f8762883f1.png)
-![Angular](https://user-images.githubusercontent.com/75431079/131574741-ff87e13b-a348-4d13-b624-d74d672f7ad9.png)
 
 
 
