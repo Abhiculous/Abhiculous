@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-< <img width="192" alt="aspnet_logo" src="https://user-images.githubusercontent.com/75431079/131574716-fcdf1e37-398b-4739-a371-c068be9c55aa.png">
-![html-css](https://user-images.githubusercontent.com/75431079/131574719-11704183-f465-4be5-911c-7ddeab46e013.png)
-
-
-
-
-
+< 
 
 Here are some ideas to get you started:
 
